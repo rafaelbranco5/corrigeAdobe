@@ -1,0 +1,13 @@
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\obj\Debug\CorrigeAdobe.csprojAssemblyReference.cache
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\obj\Debug\CorrigeAdobe.home.resources
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\obj\Debug\CorrigeAdobe.Properties.Resources.resources
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\obj\Debug\CorrigeAdobe.csproj.GenerateResource.cache
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\obj\Debug\CorrigeAdobe.csproj.CoreCompileInputs.cache
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\bin\Debug\CorrigeAdobe.exe
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\bin\Debug\CorrigeAdobe.pdb
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\obj\Debug\CorrigeAdobe.exe
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\obj\Debug\CorrigeAdobe.pdb
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\bin\Debug\CorrigeAdobe.exe.manifest
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\bin\Debug\CorrigeAdobe.application
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\obj\Debug\CorrigeAdobe.exe.manifest
+C:\Users\27788\Documents\csharp\CorrigeAdobe\CorrigeAdobe\obj\Debug\CorrigeAdobe.application
